@@ -1,0 +1,25 @@
+# Sistema de archivos sensibles o generados
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+
+# Fuentes y capas geoespaciales locales.
+# No subir datos de accidentes, comercios, domicilios ni coordenadas detalladas.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/siniestros_asignados.gpkg
+!data/processed/tramos_con_metricas.gpkg
+!data/processed/puntos_criticos.gpkg
+
+# Salidas locales que pueden contener geometrías o datos detallados.
+outputs/*
+!outputs/.gitkeep
+reports/seleccionado.pdf
+reports/prueba_reporte.pdf

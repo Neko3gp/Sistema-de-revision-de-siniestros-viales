@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "descripcion": "Extractos analíticos para revisión y futura modelación predictiva.",
+  "aforo_relativo": "Índice proxy 0-100; no representa vehículos observados.",
+  "fuentes": {
+    "siniestros": "data/raw/siniestros_limpios.gpkg",
+    "red_vial": "data/raw/red_vial_chihuahua.gpkg"
+  },
+  "salidas_parquet": [
+    "data/processed/siniestros_modelo.parquet",
+    "data/processed/tramos_modelo.parquet",
+    "data/processed/puntos_criticos_modelo.parquet"
+  ]
+}

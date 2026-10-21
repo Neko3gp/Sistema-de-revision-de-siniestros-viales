@@ -1,0 +1,51 @@
+cluster,n_siniestros,severidad,fatales,muertos,heridos,n_peaton_ciclista,x,y,tipo_dominante,causa_dominante,hora_pico,n_reciente,vialidades,conf_gi_todos,conf_gi_reciente,ranking,aforo_relativo
+1906,283,391,2,2,53,11,389982.19963385904,3175760.4968352495,Colisión con vehículo automotor,Conductor,15,123,homero y tecnologico,0,0,1,91.35
+1634,262,342,0,0,36,7,389671.9983243938,3169452.8809079463,Colisión con vehículo automotor,Conductor,19,146,cantera y juventud,0,0,2,78.67
+3239,255,342,1,1,43,8,391406.49811018,3166592.0731511787,Colisión con vehículo automotor,Conductor,17,129,instituto politecnico nacional y juventud,0,0,3,77.53
+3680,269,327,0,0,32,6,391745.37634977937,3165505.3219323666,Colisión con vehículo automotor,Conductor,9,134,antonio ortiz mena y juventud,95,95,4,78.22
+1581,250,322,2,2,34,2,389603.8610819844,3171431.2785837357,Colisión con vehículo automotor,Conductor,8,184,francisco villa y juventud,0,0,5,70.71
+10088,197,322,1,1,56,17,400909.0592950579,3169108.106521388,Colisión con vehículo automotor,Conductor,8,113,juan pablo y vicente lombardo toledano,0,0,6,66.35
+1138,204,315,1,1,50,11,388960.14348585485,3176986.716625237,Colisión con vehículo automotor,Conductor,15,104,miguel de cervantes y tecnologico,0,0,7,63.86
+364,223,306,1,1,43,5,387153.0511820844,3179389.6400153777,Colisión con vehículo automotor,Conductor,7,111,guillermo prieto y tecnologico,95,95,8,64.11
+9505,152,294,2,2,47,22,399223.4641785679,3166424.8765199096,Colisión con vehículo automotor,Conductor,14,69,fuentes mares y nueva espana,99,99,9,55.21
+3978,211,287,0,0,42,4,392048.59825788473,3176626.081272404,Colisión con vehículo automotor,Conductor,7,103,homero y industrias,0,0,10,58.57
+3260,174,287,3,3,70,8,391401.9046375242,3163051.9726064056,Colisión con vehículo automotor,Conductor,15,87,francisco r almada y silvestre terrazas,0,0,11,51.79
+770,227,276,1,1,20,4,388178.55287622963,3178022.1920935884,Colisión con vehículo automotor,Conductor,8,148,nogales y tecnologico,90,90,12,61.32
+6700,130,272,2,2,46,26,394594.34039421886,3168405.336694129,Colisión con vehículo automotor,Conductor,15,77,independencia y ninos heroes,99,99,13,49.77
+1372,203,267,0,0,36,3,389320.6745586967,3172033.2500824654,Colisión con vehículo automotor,Conductor,8,123,juan escutia y juventud,0,0,14,53.9
+6878,219,266,1,1,22,3,394815.7315977774,3168829.541634721,Colisión con vehículo automotor,Conductor,14,132,teofilo borunda y universidad,99,99,15,57.72
+6505,188,263,1,1,47,3,394391.4078304537,3168619.1839259374,Colisión con vehículo automotor,Conductor,11,111,independencia y teofilo borunda,99,99,16,49.79
+629,167,247,0,0,44,8,387861.16309238994,3178569.4334580568,Colisión con vehículo automotor,Conductor,8,91,arcos y tecnologico,90,90,17,45.81
+782,178,234,0,0,38,0,388187.9370113752,3177957.6732137115,Colisión con vehículo automotor,Conductor,8,69,tecnologico y universitario,90,90,18,42.52
+8425,150,225,1,1,37,5,396740.761848944,3170462.5828201347,Colisión con vehículo automotor,Conductor,7,84,benito juarez y vicente lombardo toledano,0,0,19,37.57
+9570,146,220,0,0,32,10,399431.2184318136,3166686.2381911078,Colisión con vehículo automotor,Conductor,7,25,carlos pacheco y juan pablo,99,99,20,38.94
+2625,174,219,1,1,24,0,390817.7435116582,3169431.565077119,Colisión con vehículo automotor,Conductor,15,82,cantera y washington,0,0,21,39.94
+1161,177,205,0,0,17,1,388992.8935933673,3173443.4831600776,Colisión con vehículo automotor,Conductor,8,102,egipto y juventud,0,0,22,39.76
+611,152,198,0,0,31,1,387820.466910102,3177807.238002845,Colisión con vehículo automotor,Conductor,19,53,paseos de la universidad y universitario,95,95,23,32.88
+7332,140,190,2,2,12,4,395304.4943460344,3169608.1767691313,Colisión con vehículo automotor,Conductor,8,85,colon y teofilo borunda,99,99,24,30.81
+6210,144,187,1,1,15,4,394083.73442668474,3168488.7357735704,Colisión con vehículo automotor,Conductor,8,78,melchor ocampo y teofilo borunda,99,99,25,31.48
+10647,90,185,5,7,30,4,402988.61544963525,3164312.979267447,Colisión con vehículo automotor,Conductor,18,44,francisco r almada y fuentes mares,0,0,26,18.0
+5332,111,183,2,2,25,4,393164.0467437389,3176623.4370428976,Colisión con vehículo automotor,Conductor,6,61,heroico colegio militar y monte alban,0,0,27,22.95
+3749,151,177,0,0,15,2,391836.0509538981,3165444.438014712,Colisión con vehículo automotor,Conductor,8,73,juventud y teofilo borunda,99,99,28,30.98
+1436,135,176,1,1,22,1,389427.72224550875,3175425.5674256324,Colisión con vehículo automotor,Conductor,8,63,homero y juventud,0,0,29,26.37
+7995,134,176,0,0,31,0,396043.2359816975,3170654.1707272697,Colisión con vehículo automotor,Conductor,8,85,teofilo borunda y vicente lombardo toledano,0,0,30,25.54
+9437,109,176,1,1,24,9,399114.1258555848,3163898.3747362215,Colisión con vehículo automotor,Conductor,7,57,francisco r almada y nueva espana,0,0,31,24.6
+1657,149,174,1,1,10,0,389685.1774760948,3170714.177516886,Colisión con vehículo automotor,Conductor,7,86,juventud y valle escondido,0,0,32,29.01
+238,121,174,3,3,21,1,386606.1703954389,3180320.555276897,Colisión con vehículo automotor,Conductor,9,60,desarrollo y tecnologico,0,0,33,22.72
+488,117,174,3,3,18,3,387588.2156346216,3163069.2415306014,Colisión con vehículo automotor,Conductor,7,117,sacramento y teofilo borunda,0,0,34,22.89
+9636,96,163,1,1,26,6,399662.9738704556,3166755.214724954,Colisión con vehículo automotor,Conductor,8,91,carlos pacheco y juan pablo,99,95,35,18.29
+7810,113,162,1,1,18,5,395792.3057633237,3169955.8722395306,Colisión con vehículo automotor,Conductor,8,55,junta y teofilo borunda,99,99,36,21.78
+7882,110,157,1,1,14,7,395878.57013688015,3169521.582440496,Colisión con vehículo automotor,Conductor,10,61,benito juarez y carlos pacheco,99,99,37,21.67
+3152,119,153,0,0,16,3,391298.4994752199,3176312.435364661,Colisión con vehículo automotor,Conductor,7,54,homero y nicolas gogol,0,0,38,21.14
+1924,127,151,0,0,35,1,389990.6185050972,3169108.936349799,Colisión con vehículo automotor,Conductor,15,104,hacienda de la cantera y juventud,0,0,39,21.74
+1308,109,149,2,2,10,2,389216.5441858212,3169456.121312387,Colisión con vehículo automotor,Conductor,19,66,cantera y tomas valles,0,0,40,17.69
+10301,75,148,3,3,39,4,401408.7830916275,3170079.358118802,Colisión con vehículo automotor,Conductor,16,32,85 y juan pablo,0,0,41,10.39
+9079,115,147,0,0,18,3,398576.43768483493,3169763.1230189158,Colisión con vehículo automotor,Conductor,7,43,mina la negrita y vicente lombardo toledano,0,0,42,19.52
+2464,98,144,0,0,22,5,390648.76880775235,3164840.440093908,Colisión con vehículo automotor,Conductor,7,51,pedro zuloaga y teofilo borunda,0,0,43,16.18
+9524,101,141,0,0,25,3,399267.0795184329,3166659.9895872893,Colisión con vehículo automotor,Conductor,19,49,ch p y nueva espana,99,99,44,15.45
+2240,114,140,0,0,11,3,390399.21815923695,3167721.7214839472,Colisión con vehículo automotor,Conductor,15,78,hacienda del valle y juventud,0,0,45,18.53
+10983,87,139,0,0,31,6,405564.0238226325,3165014.5607822775,Colisión con vehículo automotor,Conductor,6,76,al cereso y vicente lombardo toledano,0,95,46,13.53
+5255,82,138,0,0,19,9,393109.93021179206,3171803.9358760915,Colisión con vehículo automotor,Conductor,11,43,pino y tecnologico,0,0,47,13.92
+3310,119,137,0,0,13,0,391437.7956205999,3169389.2364688367,Colisión con vehículo automotor,Conductor,7,64,cantera y rio de janeiro,0,0,48,17.71
+2987,109,137,0,0,15,1,391146.02262435853,3178860.6922729732,Colisión con vehículo automotor,Conductor,7,56,industrias y nogales,90,90,49,15.83
+5139,100,135,1,1,16,1,392997.6682175977,3166701.0407201205,Colisión con vehículo automotor,Conductor,14,53,instituto politecnico nacional y teofilo borunda,0,90,50,13.41
