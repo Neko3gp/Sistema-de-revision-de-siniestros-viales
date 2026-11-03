@@ -32,7 +32,6 @@ La aplicación incluye tres GeoPackage procesados y agregados en `data/processed
   - `tramos_con_metricas.gpkg`
   - `puntos_criticos.gpkg`
 
-Estos archivos contienen información geoespacial y registros derivados de una fuente pública; no contienen API keys, credenciales ni archivos personales del autor. Las fuentes originales completas no forman parte del repositorio.
 
 ## Instalación y ejecución
 
@@ -84,7 +83,7 @@ El sistema no contiene conteos observados de vehículos. `aforo_relativo` es un 
 
 Si se incorporan aforos reales, deben agregarse como una fuente versionada con fecha, ubicación, sentido, periodo de medición y metodología. El índice proxy no debe mezclarse automáticamente con esa medición.
 
-## Limitaciones conocidas
+## Limitaciones encontradas
 
 - El salto de registros de 2021 requiere validación con la fuente antes de usar tendencias temporales como objetivo predictivo.
 - Los puntos críticos reflejan concentración de siniestros y pueden estar afectados por geocodificación apilada.
